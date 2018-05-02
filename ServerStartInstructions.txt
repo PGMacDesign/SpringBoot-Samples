@@ -1,0 +1,5 @@
+Command to run it:
+java -jar "LOCATION_OF_FILE/myserver.jar"
+
+To Stop it:
+Just close the cmd prompt

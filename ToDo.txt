@@ -1,0 +1,5 @@
+1) Authentication (also extending expiry times on calls)
+2) Login, password hashing, salt management
+3) Only updating specified fields
+4) Password reset
+
